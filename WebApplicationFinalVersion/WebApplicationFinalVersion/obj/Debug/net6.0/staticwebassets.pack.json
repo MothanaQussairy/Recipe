@@ -1,0 +1,2521 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplicationFinalVersion.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplicationFinalVersion.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\dist\\all.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\dist\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\dist\\images\\dashboard.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\dist\\images\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\dist\\images\\login-new.jpeg",
+      "PackagePath": "staticwebassets\\AdminAssets\\dist\\images\\login-new.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\dist\\images\\login.jpeg",
+      "PackagePath": "staticwebassets\\AdminAssets\\dist\\images\\login.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\dist\\images\\login.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\dist\\images\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\dist\\styles.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\dist\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fontawesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\cheatsheet.html",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\cheatsheet.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\img\\img_1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\img\\img_2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\img\\img_3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\img\\profile_big.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\img\\profile_big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\index.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\package-lock.json",
+      "PackagePath": "staticwebassets\\AdminAssets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\package.json",
+      "PackagePath": "staticwebassets\\AdminAssets\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\postcss.config.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\postcss.config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_custom.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\AdminAssets\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\src\\chart.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\src\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\src\\graph.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\src\\graph.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\src\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\src\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\src\\styles.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\src\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\tables.html",
+      "PackagePath": "staticwebassets\\AdminAssets\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\tailwind.config.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\tailwind.config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\theme.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\AdminAssets\\webpack.config.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\03859cec-6396-4920-996a-a764b828a3d0_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\03859cec-6396-4920-996a-a764b828a3d0_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\03a942ae-9751-4812-af82-9eb769588b86_istockphoto-1457889029-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\03a942ae-9751-4812-af82-9eb769588b86_istockphoto-1457889029-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\07500300-8ae9-426a-8958-c182208ed3ad_do.jpg",
+      "PackagePath": "staticwebassets\\Image\\07500300-8ae9-426a-8958-c182208ed3ad_do.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\0884fcf0-56ff-4eca-a179-05cba73dacbd_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\0884fcf0-56ff-4eca-a179-05cba73dacbd_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\0a026ebe-dd5a-4ada-a102-38f0b3ad5beb_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\0a026ebe-dd5a-4ada-a102-38f0b3ad5beb_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\0ce547e2-db3a-48a9-a9fd-5c6a31e170bd_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\0ce547e2-db3a-48a9-a9fd-5c6a31e170bd_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\12496590-9360-4dc2-85df-7b49044935df_recepie_details.png",
+      "PackagePath": "staticwebassets\\Image\\12496590-9360-4dc2-85df-7b49044935df_recepie_details.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\127cdda8-5e2e-4a27-ad03-98a632519919_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\127cdda8-5e2e-4a27-ad03-98a632519919_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\14addae6-2a9d-4b43-83a0-0c0a2be37bb6_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\14addae6-2a9d-4b43-83a0-0c0a2be37bb6_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\14d7315b-8bde-4fa1-8929-e008cd061b64_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\14d7315b-8bde-4fa1-8929-e008cd061b64_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\16db07e4-937a-4e39-a290-a84c4def892c_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\16db07e4-937a-4e39-a290-a84c4def892c_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\1914928eef3f4811a49927dc02cb482b_istockphoto-866973482-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\1914928eef3f4811a49927dc02cb482b_istockphoto-866973482-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\1c0fded2-a4fd-4987-86f5-67c8e3337575_istockphoto-1387721011-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\1c0fded2-a4fd-4987-86f5-67c8e3337575_istockphoto-1387721011-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\1c5b38a5-d46b-4c0b-a541-ae22a7e68259_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\1c5b38a5-d46b-4c0b-a541-ae22a7e68259_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\20ece6f5-0e75-4599-b164-54b622cc4336_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\20ece6f5-0e75-4599-b164-54b622cc4336_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\2113eada-11ff-4ac1-825a-c90ef9e34465_laptop.webp",
+      "PackagePath": "staticwebassets\\Image\\2113eada-11ff-4ac1-825a-c90ef9e34465_laptop.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\289abc20-2b0c-4002-8d51-361a35729941_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\289abc20-2b0c-4002-8d51-361a35729941_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\2b9d1c4f-0fcd-4b85-a720-abb08b92d1e5_recpie_1.png",
+      "PackagePath": "staticwebassets\\Image\\2b9d1c4f-0fcd-4b85-a720-abb08b92d1e5_recpie_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\2bc5aaab-21d7-44de-9587-15870e775013_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\2bc5aaab-21d7-44de-9587-15870e775013_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\2cfa38bb-64dc-41d8-b9c0-9a8553727469_resume.jpg",
+      "PackagePath": "staticwebassets\\Image\\2cfa38bb-64dc-41d8-b9c0-9a8553727469_resume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\32f28f7b-3690-420b-bfe3-9a23c4a57f45_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\32f28f7b-3690-420b-bfe3-9a23c4a57f45_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\334fbdb4-0d64-4201-a192-5d0ea160ab31_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\334fbdb4-0d64-4201-a192-5d0ea160ab31_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\34a95d68-faa6-463a-9d52-f95e7b219243_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\34a95d68-faa6-463a-9d52-f95e7b219243_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3675522d5c6c4afbbf7a08c5f4737b53_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\3675522d5c6c4afbbf7a08c5f4737b53_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3aa9262c-0af7-4b66-a10a-7f605ee40931_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\3aa9262c-0af7-4b66-a10a-7f605ee40931_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3accdd78-96ba-4c19-b8e3-a91e9132807f_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\3accdd78-96ba-4c19-b8e3-a91e9132807f_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3aedb181-f05a-48ba-a832-e7fb83b9809d_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\3aedb181-f05a-48ba-a832-e7fb83b9809d_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3b5d862f-a595-4ff2-a7ee-dfd48d1e5a0a_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\3b5d862f-a595-4ff2-a7ee-dfd48d1e5a0a_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3cec797cd6264cf6be7c02ebe7e5496e_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\3cec797cd6264cf6be7c02ebe7e5496e_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3e299e4a-213b-4aa5-9dea-0beb42f13d36_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\3e299e4a-213b-4aa5-9dea-0beb42f13d36_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\3fa79fa6-1636-4ddf-ac84-af3d9019be5f_glasses.jpg",
+      "PackagePath": "staticwebassets\\Image\\3fa79fa6-1636-4ddf-ac84-af3d9019be5f_glasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\406b22ca-b57e-4726-ad23-ca013753ff00_victoria-shes-UC0HZdUitWY-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Image\\406b22ca-b57e-4726-ad23-ca013753ff00_victoria-shes-UC0HZdUitWY-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\423c54eef6c94de7b2cdd7ea2e7acc5d_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\423c54eef6c94de7b2cdd7ea2e7acc5d_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\46499559-1c24-4080-a4e7-86cfc342148d_last.jpg",
+      "PackagePath": "staticwebassets\\Image\\46499559-1c24-4080-a4e7-86cfc342148d_last.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\498c2e39-1493-46dc-8fff-0ab7375fc0e4_do.jpg",
+      "PackagePath": "staticwebassets\\Image\\498c2e39-1493-46dc-8fff-0ab7375fc0e4_do.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\4c89102e-674b-4fb5-bd01-c58f2dbda9f1_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\4c89102e-674b-4fb5-bd01-c58f2dbda9f1_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\4d8e8ea416b743df8c2ff524dff8ffa7_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\4d8e8ea416b743df8c2ff524dff8ffa7_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\523fd9b2-d782-4830-9406-c5f1a5c474fc_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\523fd9b2-d782-4830-9406-c5f1a5c474fc_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\57ae7fee9c7c42f9ac53b075ba8f0111_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\57ae7fee9c7c42f9ac53b075ba8f0111_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\57ff95f8-d359-40fd-b529-5e4e7e7a997d_photo-1531297484001-80022131f5a1.jpg",
+      "PackagePath": "staticwebassets\\Image\\57ff95f8-d359-40fd-b529-5e4e7e7a997d_photo-1531297484001-80022131f5a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\5b0f6629-4402-4242-ae0d-9537caf900c8_do.jpg",
+      "PackagePath": "staticwebassets\\Image\\5b0f6629-4402-4242-ae0d-9537caf900c8_do.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\5c39b4b0-b4cb-4349-82c9-f0f86371dae5_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\5c39b4b0-b4cb-4349-82c9-f0f86371dae5_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\5c64073f-950f-446c-8804-68e3ccdc6740_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\5c64073f-950f-446c-8804-68e3ccdc6740_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\5c7b31a2-ffd0-4434-a62e-7f92c3ef90fe_photo-1531297484001-80022131f5a1.jpg",
+      "PackagePath": "staticwebassets\\Image\\5c7b31a2-ffd0-4434-a62e-7f92c3ef90fe_photo-1531297484001-80022131f5a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\5df6e5a3-f9fa-4548-a36c-ca307f3e53e6_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\5df6e5a3-f9fa-4548-a36c-ca307f3e53e6_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\5f21412e-84db-401a-8553-68d8e1883757_joseph-gonzalez-fdlZBWIP0aM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Image\\5f21412e-84db-401a-8553-68d8e1883757_joseph-gonzalez-fdlZBWIP0aM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\64aa1ff6-4497-43a2-ad4d-2d284b049544_last.jpg",
+      "PackagePath": "staticwebassets\\Image\\64aa1ff6-4497-43a2-ad4d-2d284b049544_last.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\6716e797-18c7-4bb1-91ec-34667e4ba353_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\6716e797-18c7-4bb1-91ec-34667e4ba353_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\6899484e-682c-4bd2-9d3e-70ded1c86874_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\6899484e-682c-4bd2-9d3e-70ded1c86874_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\6bda088b-6e05-4d38-afd7-ac0c97b27e7f_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\6bda088b-6e05-4d38-afd7-ac0c97b27e7f_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\6e23024e-f061-4c63-b269-c5aa30ea7f8f_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\6e23024e-f061-4c63-b269-c5aa30ea7f8f_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\6e7dcc3d-6605-4b61-aa9e-f67748a9a44d_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\6e7dcc3d-6605-4b61-aa9e-f67748a9a44d_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\6fbcc881fae643a39f6250a787fa92fe_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\6fbcc881fae643a39f6250a787fa92fe_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\704d6298-6732-4c9b-948a-b78b12a73d64_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\704d6298-6732-4c9b-948a-b78b12a73d64_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\728dbbca-8bc2-4cd5-bf40-c3d68de71e8c_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\728dbbca-8bc2-4cd5-bf40-c3d68de71e8c_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\733df08d-ad8f-4a5d-8c0d-53cb27897711_glasses.jpg",
+      "PackagePath": "staticwebassets\\Image\\733df08d-ad8f-4a5d-8c0d-53cb27897711_glasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\73efba81-af06-4b00-b152-ed688feac054_glasses.jpg",
+      "PackagePath": "staticwebassets\\Image\\73efba81-af06-4b00-b152-ed688feac054_glasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\743f26fce57f4222b92175d1f17b7612_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\743f26fce57f4222b92175d1f17b7612_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\75312c1b-2347-4505-afab-f76e6c799e6d_joseph-gonzalez-fdlZBWIP0aM-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Image\\75312c1b-2347-4505-afab-f76e6c799e6d_joseph-gonzalez-fdlZBWIP0aM-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\782c1b53-23d3-41ce-8ed2-232be7628864_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\782c1b53-23d3-41ce-8ed2-232be7628864_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\78d696df-f388-44f4-b326-a76ddc4fa5e0_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\78d696df-f388-44f4-b326-a76ddc4fa5e0_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\78f84e9b904b4a089537726b8958cac5_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\78f84e9b904b4a089537726b8958cac5_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\809084a2-b208-436c-a2f6-72e1654d8b8b_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\809084a2-b208-436c-a2f6-72e1654d8b8b_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\88f1a48e-65ef-4fef-ad8b-c3a4e9ffa5ae_istockphoto-1457889029-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\88f1a48e-65ef-4fef-ad8b-c3a4e9ffa5ae_istockphoto-1457889029-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\89d06848-1258-40c9-890c-27dbe43c05b9_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\89d06848-1258-40c9-890c-27dbe43c05b9_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\923b0229-d3ff-4e5b-889b-feb417bcc15c_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\923b0229-d3ff-4e5b-889b-feb417bcc15c_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\94976288d6624364a587d6cfcf0fed36_istockphoto-1399788030-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\94976288d6624364a587d6cfcf0fed36_istockphoto-1399788030-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\95cf2f01-4a56-400f-8ddc-04bccf1b9b2f_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\95cf2f01-4a56-400f-8ddc-04bccf1b9b2f_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\9c141f3e-7405-4303-be40-d930a3376d07_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\9c141f3e-7405-4303-be40-d930a3376d07_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\9e0ffa6c-254b-466a-bb96-dbbee0306b4e_glasses.jpg",
+      "PackagePath": "staticwebassets\\Image\\9e0ffa6c-254b-466a-bb96-dbbee0306b4e_glasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\a0aa8045428d4527a265a27c121bf21a_istockphoto-1426559579-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\a0aa8045428d4527a265a27c121bf21a_istockphoto-1426559579-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\a5bf4777-ea3a-4133-9553-be5a4344628f_eiliv-aceron-ZuIDLSz3XLg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Image\\a5bf4777-ea3a-4133-9553-be5a4344628f_eiliv-aceron-ZuIDLSz3XLg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\ac02766b-8af9-4706-ba5b-884c7d9cbbfb_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\ac02766b-8af9-4706-ba5b-884c7d9cbbfb_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\ac400cc7-5e3c-49c3-83bb-62d1a56dfbd3_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\ac400cc7-5e3c-49c3-83bb-62d1a56dfbd3_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\ac87fe88-32ff-4c5d-8272-650eb0ac4342_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\ac87fe88-32ff-4c5d-8272-650eb0ac4342_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\acf8fcee-8b0d-4f08-a3e4-3cea16f231ad_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\acf8fcee-8b0d-4f08-a3e4-3cea16f231ad_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b004dced-275a-46ae-befa-8e86db1d59e8_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\b004dced-275a-46ae-befa-8e86db1d59e8_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b0dedf03-822f-47fd-af06-aaa8bab122b7_do.jpg",
+      "PackagePath": "staticwebassets\\Image\\b0dedf03-822f-47fd-af06-aaa8bab122b7_do.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b50fa221-ee04-4da0-8937-e08db73e6f5a_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\b50fa221-ee04-4da0-8937-e08db73e6f5a_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b6cf2984-7964-4d97-99d6-9833e5745de2_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\b6cf2984-7964-4d97-99d6-9833e5745de2_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b79e4d8e-5f07-4c31-9463-8c88004427ba_last.jpg",
+      "PackagePath": "staticwebassets\\Image\\b79e4d8e-5f07-4c31-9463-8c88004427ba_last.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b85a8b32-f212-489b-8edf-c28e9b58ffa9_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\b85a8b32-f212-489b-8edf-c28e9b58ffa9_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\b9574c91-6b9f-40f5-a66e-5d9c05045b88_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\b9574c91-6b9f-40f5-a66e-5d9c05045b88_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\ba23bf51-2aee-4def-8b45-a86bd2b1f3bb_p1.jpg",
+      "PackagePath": "staticwebassets\\Image\\ba23bf51-2aee-4def-8b45-a86bd2b1f3bb_p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\bbaa0a7d-437d-4ac8-9a00-46f5e0ac0c90_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\bbaa0a7d-437d-4ac8-9a00-46f5e0ac0c90_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\c77129caf4c04787a5a0cd0253e153da_istockphoto-1426559579-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Image\\c77129caf4c04787a5a0cd0253e153da_istockphoto-1426559579-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\c87931ef-4c7b-4592-9094-fc3c56201942_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\c87931ef-4c7b-4592-9094-fc3c56201942_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\cb4708cd-71a9-41a1-9c84-9057f689b32d_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\cb4708cd-71a9-41a1-9c84-9057f689b32d_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\cbd8c195-9105-494c-a0f6-611d6f5da3a5_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\cbd8c195-9105-494c-a0f6-611d6f5da3a5_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\cf0083c4-7b59-4924-9c3b-3ef5037a51b1_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\cf0083c4-7b59-4924-9c3b-3ef5037a51b1_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\d0e529dabde04574a47198a0fb8648ab_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\d0e529dabde04574a47198a0fb8648ab_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\d3ee9807-053c-4d0e-9a7f-c67f162d62cd_eiliv-aceron-ZuIDLSz3XLg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Image\\d3ee9807-053c-4d0e-9a7f-c67f162d62cd_eiliv-aceron-ZuIDLSz3XLg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\d995a5ca-2906-4ef2-aa46-85a119517dc7_p1.jpg",
+      "PackagePath": "staticwebassets\\Image\\d995a5ca-2906-4ef2-aa46-85a119517dc7_p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\defa16c7-03ba-4af9-a4ff-d12b17b202c9_p1.jpg",
+      "PackagePath": "staticwebassets\\Image\\defa16c7-03ba-4af9-a4ff-d12b17b202c9_p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\e3221194-bfbd-43a2-b366-d0cb459fa662_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\e3221194-bfbd-43a2-b366-d0cb459fa662_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\e6e865d9-e946-4ed3-905e-05a43a2c68c5_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\e6e865d9-e946-4ed3-905e-05a43a2c68c5_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\eb6974d8-5aa0-45b9-be01-22f4afa0f4b3_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\eb6974d8-5aa0-45b9-be01-22f4afa0f4b3_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\ec9fac30-bdc4-4d49-b153-da4833b0d85c_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\ec9fac30-bdc4-4d49-b153-da4833b0d85c_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\ee46104f-85e7-4314-a749-65247c6fcc4d_p4.jpg",
+      "PackagePath": "staticwebassets\\Image\\ee46104f-85e7-4314-a749-65247c6fcc4d_p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\eee23999-c23c-43b3-9920-d63a48b016d0_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\eee23999-c23c-43b3-9920-d63a48b016d0_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f006bc76-32af-4521-b539-8f393cd2e2e1_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\f006bc76-32af-4521-b539-8f393cd2e2e1_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f18a988b6c53439e8119840adee71cf7_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\f18a988b6c53439e8119840adee71cf7_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f1cfc594-e2a5-4ee6-800b-a578aaa6d7a2_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\f1cfc594-e2a5-4ee6-800b-a578aaa6d7a2_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f5ced259-1eb2-4aef-9867-afa9d1d74a12_lamp.jpg",
+      "PackagePath": "staticwebassets\\Image\\f5ced259-1eb2-4aef-9867-afa9d1d74a12_lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f5f2a287-887b-4ed3-a83f-577da287b099_p2.jpg",
+      "PackagePath": "staticwebassets\\Image\\f5f2a287-887b-4ed3-a83f-577da287b099_p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f6c1fd68-2d30-4eb1-a45e-4a1499206c22_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\f6c1fd68-2d30-4eb1-a45e-4a1499206c22_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f8082e6b-428d-4b7c-ac8a-de9b5ece8eef_p3.jpg",
+      "PackagePath": "staticwebassets\\Image\\f8082e6b-428d-4b7c-ac8a-de9b5ece8eef_p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\Image\\f8acba6e-1f66-4083-80c0-bc7ad548bbcf_p1.jpg",
+      "PackagePath": "staticwebassets\\Image\\f8acba6e-1f66-4083-80c0-bc7ad548bbcf_p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\css\\main.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\images\\bg-heading-02.jpg",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\images\\bg-heading-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\js\\global.js",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\js\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\datepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\datepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\datepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\datepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\datepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\datepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\LoginAndRegisterAssets\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\LoginAndRegisterAssets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\css\\main.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\img\\logo.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\index.html",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\js\\custom.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\220 Testy Recipes  DOC\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\style.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\style.map",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\theme-default.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\RecipesAssets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\banner\\accordion.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\banner\\accordion.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\banner\\banner_testmonial.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\banner\\banner_testmonial.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\banner\\portfolio_bg.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\banner\\portfolio_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\banner\\study_banner.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\banner\\study_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\4.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\5.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\6.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\case_study\\case_banner.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\case_study\\case_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\febrian-zakaria-SiQgni-cqFg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\febrian-zakaria-SiQgni-cqFg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\footer_logo.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\footer_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\pattern\\patrn.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\pattern\\patrn.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\pattern\\patrn_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\pattern\\patrn_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\portfolio\\1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\portfolio\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\portfolio\\2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\portfolio\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\portfolio\\3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\portfolio\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\portfolio\\4.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\portfolio\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\portfolio\\5.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\portfolio\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\banner.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recepie_details.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recepie_details.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recpie_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recpie_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recpie_2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recpie_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recpie_3.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recpie_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recpie_4.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recpie_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recpie_5.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recpie_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\recepie\\recpie_6.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\recepie\\recpie_6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\feature_1.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\feature_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\feature_2.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\feature_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\feature_3.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\feature_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\feature_4.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\feature_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\feature_5.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\feature_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\feature_6.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\feature_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\seo_1.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\seo_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\seo_2.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\seo_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\svg_icon\\seo_3.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\svg_icon\\seo_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\testmonial\\2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\testmonial\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\testmonial\\banner.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\testmonial\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\testmonial\\quote.svg",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\testmonial\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\testmonial\\thumb.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\testmonial\\thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\video\\2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\video\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\video\\big.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\video\\big.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\video\\big_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\video\\big_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\video\\sm2.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\video\\sm2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\video\\small_1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\video\\small_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\img\\video\\small_sm1.png",
+      "PackagePath": "staticwebassets\\RecipesAssets\\img\\video\\small_sm1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\main.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\RecipesAssets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_accordion_area.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_accordion_area.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_case_details.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_case_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_case_study.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_case_study.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_counter.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_counter.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_department.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_department.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_discuss.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_discuss.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_download.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_download.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_emergency_contact.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_emergency_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_experts.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_features.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_prising.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_prising.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_recepie.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_recepie.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_recipe_details.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_recipe_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_service.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_tesmonial.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_tesmonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\RecipesAssets\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\RecipesAssets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\WebApplicationFinalVersion\\WebApplicationFinalVersion\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplicationFinalVersion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplicationFinalVersion.props",
+      "PackagePath": "build\\WebApplicationFinalVersion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationFinalVersion.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationFinalVersion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationFinalVersion.props",
+      "PackagePath": "buildTransitive\\WebApplicationFinalVersion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

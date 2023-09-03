@@ -1,0 +1,77 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Payment Form</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="~/RecipesAssets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/style.css">
+    <style>
+        .warning-message {
+        color: red;
+        font-weight: bold;
+        }
+    </style>
+</head>
+
+@{
+    Layout = null;
+    var paymentMessage = TempData["PaymentMessage"] as string;
+}
+
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <!-- Meta tags and stylesheet links -->
+</head>
+
+<body>
+    <div class="whole-wrap">
+        <div class="container box_1170">
+            <div class="section-top-border">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <h3 class="mb-30">Payment Form</h3>
+                        <form method="post" asp-action="PayNow">
+                            <div class="mt-10">
+                                <input type="text" name="cardNumber" placeholder="Card Number"
+                                       required class="single-input">
+                            </div>
+                            <div class="mt-10">
+                                <input type="text" name="cvv" placeholder="CVV" required class="single-input">
+                            </div>
+                            <div class="mt-10">
+                                <input type="text" name="nameOnCard" placeholder="Name on Card"
+                                       required class="single-input">
+                            </div>
+                            <div class="mt-10">
+                                <i class="fa fa-cc-visa fa-2x"></i> <!-- Visa icon -->
+                                <input type="submit" value="Pay Now" class="genric-btn primary circle">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                @if (!string.IsNullOrEmpty(paymentMessage))
+                {
+                    <p class="warning-message">@paymentMessage</p>
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript script tags -->
+</body>
+
+</html>
+
+
+</html>
+

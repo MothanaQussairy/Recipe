@@ -1,0 +1,352 @@
+﻿@model IEnumerable<WebApplicationFinalVersion.Models.Reciperequest>
+@{
+    Layout = null;
+}
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Tasty Recipes</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/RecipesAssets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/nice-select.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/flaticon.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/gijgo.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/animate.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/slick.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/slicknav.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/style.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+    <!-- header-start -->
+    <header>
+        <div class="header-area ">
+            <div id="sticky-header" class="main-header-area ">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-3 col-lg-2">
+                            <div class="logo">
+                                <a asp-action="Profile">
+                                    <img src=@Url.Content("~/Image/" +ViewBag.path) asp-append-version="true" style="border-radius:50%;" width="100" height="100" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-7">
+                            <div class="main-menu d-none d-lg-block" style="white-space: nowrap;">
+                                <nav>
+                                    <ul id="navigation">
+                                        <li><a asp-action="Home" asp-controller="Customer">home</a></li>
+                                        <li><a asp-action="Chefs">Chefs</a></li>
+                                        <li><a asp-action="Recipes">Recipes</a></li>
+                                        <li>
+                                            <a asp-action="Create" asp-controller="Reciperequests">Request a Recipe <i class="ti-angle-down"></i></a>
+                                        </li>
+                                        <li>
+                                            <a asp-action="RequestedRecipesFromChef" asp-controller="Customer">Requested Recipes <i class="ti-angle-down"></i></a>
+                                        </li>
+                                        <li>
+                                            <a asp-action="About" asp-controller="Customer">About</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                            <div class="search_icon">
+                                <a href="#">
+                                    <i class="ti-search"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="mobile_menu d-block d-lg-none"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header-end -->
+    <!-- bradcam_area  -->
+    <div class="bradcam_area bradcam_bg_1">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="bradcam_text text-center">
+                        <h3>Recipe Details</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /bradcam_area  -->
+
+    <div class="dish_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="dish_wrap d-flex">
+                        @foreach (var item in Model)
+                        {
+                            if (item.Userid != ViewBag.id) continue;
+                            <div class="single_dish text-center">
+                                <div class="thumb">
+                                    <img src=@Url.Content("~/Image/"+ item.Imagepath) asp-append-version="true" style="border-radius:20%;" width="100" height="100" />
+                                </div>
+                                <p>
+                                    <h4>Creation Date</h4>
+                                    @item.CreatedDate
+                                </p>
+                                <p>
+                                    <h4>ingrediants</h4> @item.Ingredients
+                                </p>
+                                <p>
+                                   <h3>@item.Status</h3>
+                                </p>
+                                <p>
+                                    <h3>Price @item.Cost $</h3>
+                                </p>
+                                @if (item.Status.ToLower() != "accepted")
+                                {
+                                    <button class="bg-blue-500 hover:bg-blue-800 text-white font-light py-1 px-2 rounded-full" style="margin-top:15px">
+                                        <a asp-action="DeleteRequestedRecipe" asp-route-id="@item.Requestid" class="btn btn-danger">Delete</a>
+                                    </button>
+                                }
+                                else
+                                {
+                                    <button class="bg-blue-500 hover:bg-blue-800 text-white font-light py-2 px-4 rounded-full">
+                                        <a asp-action="SetAmount" asp-controller="Payment" asp-route-id=@item.Requestid class="text-white">Pay Now</a>
+                                    </button>
+
+
+                                }
+
+
+
+                            </div>
+
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- /recepie_area_start  -->
+    <!-- footer  -->
+    <footer class="footer">
+        <div class="footer_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Top Products
+                            </h3>
+                            <ul>
+                                <li><a href="#">Managed Website</a></li>
+                                <li><a href="#"> Manage Reputation</a></li>
+                                <li><a href="#">Power Tools</a></li>
+                                <li><a href="#">Marketing Service</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Quick Links
+                            </h3>
+                            <ul>
+                                <li><a href="#">Jobs</a></li>
+                                <li><a href="#">Brand Assets</a></li>
+                                <li><a href="#">Investor Relations</a></li>
+                                <li><a href="#">Terms of Service</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Features
+                            </h3>
+                            <ul>
+                                <li><a href="#">Jobs</a></li>
+                                <li><a href="#">Brand Assets</a></li>
+                                <li><a href="#">Investor Relations</a></li>
+                                <li><a href="#">Terms of Service</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Resources
+                            </h3>
+                            <ul>
+                                <li><a href="#">Guides</a></li>
+                                <li><a href="#">Research</a></li>
+                                <li><a href="#">Experts</a></li>
+                                <li><a href="#">Agencies</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-lg-4">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Subscribe
+                            </h3>
+                            <p class="newsletter_text">You can trust us. we only send promo offers,</p>
+                            <form action="#" class="newsletter_form">
+                                <input type="text" placeholder="Enter your mail">
+                                <button type="submit"> <i class="ti-arrow-right"></i> </button>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copy-right_text">
+            <div class="container">
+                <div class="footer_border"></div>
+                <div class="row align-items-center">
+                    <div class="col-xl-8 col-md-8">
+                        <p class="copy_right">
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                    <div class="col-xl-4 col-md-4">
+                        <div class="socail_links">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <i class="ti-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="ti-twitter-alt"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-dribbble"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-behance"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--/ footer  -->
+    <!-- JS here -->
+    <script src="~/RecipesAssets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="~/RecipesAssets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/RecipesAssets/js/popper.min.js"></script>
+    <script src="~/RecipesAssets/js/bootstrap.min.js"></script>
+    <script src="~/RecipesAssets/js/owl.carousel.min.js"></script>
+    <script src="~/RecipesAssets/js/isotope.pkgd.min.js"></script>
+    <script src="~/RecipesAssets/js/ajax-form.js"></script>
+    <script src="~/RecipesAssets/js/waypoints.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.counterup.min.js"></script>
+    <script src="~/RecipesAssets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/RecipesAssets/js/scrollIt.js"></script>
+    <script src="~/RecipesAssets/js/jquery.scrollUp.min.js"></script>
+    <script src="~/RecipesAssets/js/wow.min.js"></script>
+    <script src="~/RecipesAssets/js/nice-select.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.slicknav.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/RecipesAssets/js/plugins.js"></script>
+    <script src="~/RecipesAssets/js/gijgo.min.js"></script>
+
+    <!--contact js-->
+    <script src="~/RecipesAssets/js/contact.js"></script>
+    <script src="~/RecipesAssets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.form.js"></script>
+    <script src="~/RecipesAssets/js/jquery.validate.min.js"></script>
+    <script src="~/RecipesAssets/js/mail-script.js"></script>
+
+    <script src="~/RecipesAssets/js/main.js"></script>
+</body>
+
+</html>
+
+@*   <form asp-action="Create" class="form-contact comment_form">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+    <label asp-for="Userid" class="control-label"></label>
+    <select asp-for="Userid" class ="form-control" asp-items="ViewBag.Userid"></select>
+    </div>
+    <div class="form-group">
+    <label asp-for="Ingredients" class="control-label"></label>
+    <input asp-for="Ingredients" class="form-control" />
+    <span asp-validation-for="Ingredients" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+    <label asp-for="Preparationtime" class="control-label"></label>
+    <input asp-for="Preparationtime" class="form-control" />
+    <span asp-validation-for="Preparationtime" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+    <label asp-for="Status" class="control-label"></label>
+    <input asp-for="Status" class="form-control" />
+    <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+    <label asp-for="CreatedDate" class="control-label"></label>
+    <input asp-for="CreatedDate" class="form-control" />
+    <span asp-validation-for="CreatedDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+    <label asp-for="Cost" class="control-label"></label>
+    <input asp-for="Cost" class="form-control" />
+    <span asp-validation-for="Cost" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+    <label asp-for="Recipeid" class="control-label"></label>
+    <select asp-for="Recipeid" class ="form-control" asp-items="ViewBag.Recipeid"></select>
+    </div>
+    <div class="form-group">
+    <label asp-for="Imagepath" class="control-label"></label>
+    <input asp-for="Imagepath" class="form-control" />
+    <span asp-validation-for="Imagepath" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+    <div class="form-group">
+       <button type="submit" value="Create" class="button button-contactForm btn_1 boxed-btn">Send Message</button>
+    </div>
+    </div>
+    </form>*@

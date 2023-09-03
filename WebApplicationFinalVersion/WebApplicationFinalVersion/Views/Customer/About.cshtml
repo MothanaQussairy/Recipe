@@ -1,0 +1,299 @@
+﻿@model IEnumerable<WebApplicationFinalVersion.Models.AboutU>
+@{
+    Layout=null;
+}
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <style>
+        .centered-input {
+            margin: 0 auto;
+            display: block;
+            margin-bottom: 20px;
+        }
+
+    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Tasty Recipes</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/RecipesAssets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/nice-select.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/flaticon.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/gijgo.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/animate.min.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/slick.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/slicknav.css">
+    <link rel="stylesheet" href="~/RecipesAssets/css/style.css">
+    <!-- <link rel="stylesheet" href="~/RecipesAssets/css/responsive.css"> -->
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="~/Recipeshttps://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+    <!-- header-start -->
+    <header>
+        <div class="header-area ">
+            <div id="sticky-header" class="main-header-area ">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-3 col-lg-2">
+                            <div class="logo">
+                                <a asp-action="Profile">
+                                    <img src=@Url.Content("~/Image/" +ViewBag.path) asp-append-version="true" style="border-radius:50%;" width="100" height="100" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-7">
+                            <div class="main-menu d-none d-lg-block" style="white-space: nowrap;">
+                                <nav>
+                                    <ul id="navigation">
+                                        <li><a asp-action="Home" asp-controller="Customer">home</a></li>
+                                        <li><a asp-action="Chefs">Chefs</a></li>
+                                        <li><a asp-action="Recipes">Recipes</a></li>
+                                        <li>
+                                            <a asp-action="Create" asp-controller="Reciperequests">Request a Recipe <i class="ti-angle-down"></i></a>
+                                        </li>
+                                        <li>
+                                            <a asp-action="RequestedRecipesFromChef" asp-controller="Customer">Requested Recipes <i class="ti-angle-down"></i></a>
+                                        </li>
+                                        <li>
+                                            <a asp-action="About" asp-controller="Customer">About</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                            <div class="search_icon">
+                                <a href="#">
+                                    <i class="ti-search"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="mobile_menu d-block d-lg-none"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header-end -->
+    <!-- bradcam_area  -->
+    <div class="bradcam_area bradcam_bg_1">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="bradcam_text text-center">
+                        <h3>About Us</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /bradcam_area  -->
+    <!-- recepie_header_area  -->
+    <div class="recepie_header_area">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-10">
+                    <div class="recepie_text text-center">
+                        <h3>
+                            Welcome to CulinaryCanvas! Embark on a delectable journey
+                            <br>
+                            with us as we paint flavors onto your palate.
+                        </h3>
+                        <p>@ViewBag.description</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- new section for email and phone number -->
+        <div class="contact_info_area">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-xl-8">
+                        <div class="contact_info text-center">
+                            <h3>Contact Us</h3>
+                            <p>For any inquiries, feel free to reach out to us via email or phone.</p>
+                            <ul>
+                                <li><a><i class="fa fa-envelope"></i>@ViewBag.phone</a></li>
+                                <li><a <i class="fa fa-phone"></i> @ViewBag.email</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/ recepie_header_area  -->
+    
+    
+    <!-- latest_trand     -->
+    
+    <!--/ latest_trand     -->
+    <!-- customer_feedback_area  -->
+    <!-- / customer_feedback_area  -->
+    <!-- footer  -->
+    <footer class="footer">
+        <div class="footer_top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Top Products
+                            </h3>
+                            <ul>
+                                <li><a href="~/Recipes#">Managed Website</a></li>
+                                <li><a href="~/Recipes#"> Manage Reputation</a></li>
+                                <li><a href="~/Recipes#">Power Tools</a></li>
+                                <li><a href="~/Recipes#">Marketing Service</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Quick Links
+                            </h3>
+                            <ul>
+                                <li><a href="~/Recipes#">Jobs</a></li>
+                                <li><a href="~/Recipes#">Brand Assets</a></li>
+                                <li><a href="~/Recipes#">Investor Relations</a></li>
+                                <li><a href="~/Recipes#">Terms of Service</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Features
+                            </h3>
+                            <ul>
+                                <li><a href="~/Recipes#">Jobs</a></li>
+                                <li><a href="~/Recipes#">Brand Assets</a></li>
+                                <li><a href="~/Recipes#">Investor Relations</a></li>
+                                <li><a href="~/Recipes#">Terms of Service</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-md-6 col-lg-2">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Resources
+                            </h3>
+                            <ul>
+                                <li><a href="~/Recipes#">Guides</a></li>
+                                <li><a href="~/Recipes#">Research</a></li>
+                                <li><a href="~/Recipes#">Experts</a></li>
+                                <li><a href="~/Recipes#">Agencies</a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-lg-4">
+                        <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Subscribe
+                            </h3>
+                            <p class="newsletter_text">You can trust us. we only send promo offers,</p>
+                            <form action="#" class="newsletter_form">
+                                <input type="text" placeholder="Enter your mail">
+                                <button type="submit"> <i class="ti-arrow-right"></i> </button>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copy-right_text">
+            <div class="container">
+                <div class="footer_border"></div>
+                <div class="row align-items-center">
+                    <div class="col-xl-8 col-md-8">
+                        <p class="copy_right">
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="~/Recipeshttps://colorlib.com" target="_blank">Colorlib</a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                    <div class="col-xl-4 col-md-4">
+                        <div class="socail_links">
+                            <ul>
+                                <li>
+                                    <a href="~/Recipes#">
+                                        <i class="ti-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/Recipes#">
+                                        <i class="ti-twitter-alt"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/Recipes#">
+                                        <i class="fa fa-dribbble"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="~/Recipes#">
+                                        <i class="fa fa-behance"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--/ footer  -->
+    <!-- JS here -->
+    <script src="~/RecipesAssets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="~/RecipesAssets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/RecipesAssets/js/popper.min.js"></script>
+    <script src="~/RecipesAssets/js/bootstrap.min.js"></script>
+    <script src="~/RecipesAssets/js/owl.carousel.min.js"></script>
+    <script src="~/RecipesAssets/js/isotope.pkgd.min.js"></script>
+    <script src="~/RecipesAssets/js/ajax-form.js"></script>
+    <script src="~/RecipesAssets/js/waypoints.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.counterup.min.js"></script>
+    <script src="~/RecipesAssets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/RecipesAssets/js/scrollIt.js"></script>
+    <script src="~/RecipesAssets/js/jquery.scrollUp.min.js"></script>
+    <script src="~/RecipesAssets/js/wow.min.js"></script>
+    <script src="~/RecipesAssets/js/nice-select.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.slicknav.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/RecipesAssets/js/plugins.js"></script>
+    <script src="~/RecipesAssets/js/gijgo.min.js"></script>
+
+    <!--contact js-->
+    <script src="~/RecipesAssets/js/contact.js"></script>
+    <script src="~/RecipesAssets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="~/RecipesAssets/js/jquery.form.js"></script>
+    <script src="~/RecipesAssets/js/jquery.validate.min.js"></script>
+    <script src="~/RecipesAssets/js/mail-script.js"></script>
+
+    <script src="~/RecipesAssets/js/main.js"></script>
+</body>
+
+</html>
